@@ -1,1 +1,1 @@
-# flexbox-CSS
+Neste exercício eu vou treiar algumas funcionalidades do flexbox.
