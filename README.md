@@ -1,1 +1,1 @@
-Neste exercício eu vou trenar algumas funcionalidades do flexbox.
+Neste exercício eu vou treinar algumas funcionalidades do flexbox.
